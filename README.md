@@ -1,1 +1,1 @@
-Second excercise of TOP for CSS
+Second exercise of TOP for CSS
